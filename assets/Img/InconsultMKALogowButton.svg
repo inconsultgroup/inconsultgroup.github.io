@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="221px" height="260px" viewBox="0 0 221 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="127.5 0 237.918239 63.75 237.918239 191.25 127.5 255 17.081761 191.25 17.081761 63.75"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-467.000000, -106.000000)">
+            <g id="Group-3" transform="translate(450.000000, 106.000000)">
+                <g id="Инконсалт-знак">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill="#000000">
+                        <g transform="translate(58.000000, 68.000000)">
+                            <polygon id="Fill-1" points="139.957698 43.0880216 101.55036 118.375791 75.3043885 118.375791 75.3043885 0.473129496"></polygon>
+                            <polygon id="Fill-2" points="10.6638201 43.1136043 49.0580647 118.375691 0.0419496403 118.375691 0.0419496403 0.473028777 75.3045396 0.473028777 10.6512302 43.0879209"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(155.000000, 210.000000)">
+                    <circle id="Oval" fill="#111111" cx="25" cy="25" r="25"></circle>
+                    <path d="M20.3214496,17.7729033 L20.3214496,19.9208066 L17.7729033,19.9208066 L17.7729033,32.2629096 L30.1149705,32.2629096 L30.1149918,29.7143488 L32.2628951,29.7143488 L32.2628951,34.4107984 L15.625,34.4107984 L15.625,17.7729033 L20.3214496,17.7729033 Z M34.375,15.625 L34.375,26.824265 L32.2270967,26.824265 L32.2270868,19.2916999 L21.4038052,30.1149918 L19.8850082,28.5961948 L30.7082898,17.7729029 L23.175735,17.7729033 L23.175735,15.625 L34.375,15.625 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

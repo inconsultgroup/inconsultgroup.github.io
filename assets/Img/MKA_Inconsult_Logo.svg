@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="221px" height="255px" viewBox="0 0 221 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Инконсалт знак</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="127.5 0 237.918239 63.75 237.918239 191.25 127.5 255 17.081761 191.25 17.081761 63.75"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-467.000000, -106.000000)">
+            <g id="Инконсалт-знак" transform="translate(450.000000, 106.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)" fill="#000000">
+                    <g transform="translate(58.000000, 68.000000)">
+                        <polygon id="Fill-1" points="139.957698 43.0880216 101.55036 118.375791 75.3043885 118.375791 75.3043885 0.473129496"></polygon>
+                        <polygon id="Fill-2" points="10.6638201 43.1136043 49.0580647 118.375691 0.0419496403 118.375691 0.0419496403 0.473028777 75.3045396 0.473028777 10.6512302 43.0879209"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
