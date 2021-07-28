@@ -1,0 +1,99 @@
+body {
+  background-color: #1A1A1A;
+  background-image: url('Img/BG.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 4em;
+}
+
+.bg-main {
+  width: 100%;
+  height: auto;
+  /*background-color: #1A1A1A;
+  background-image: url('Img/BG.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 4em;*/
+}
+
+.nav-link {
+  font-family: 'Inter', sans-serif;
+  color: #FDECEE;
+  font-weight: 400;
+  font-size: 1em;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: #E2D4B7;
+  text-decoration: none;
+}
+
+.company-link {
+  font-family: 'Inter', sans-serif;
+  color: #FDECEE;
+  font-weight: 600;
+  font-size: 1.125em;
+  transition: 0.3s;
+}
+
+.company-link:hover {
+  color: #E2D4B7;
+  text-decoration: none;
+}
+
+.company-logo-img {
+  width: 100%;
+  max-width: 14em;
+  height: auto;
+  position: relative;
+}
+
+.external-link-icon {
+  position: absolute;
+  right: 10%;
+  bottom: 25%;
+  cursor: pointer;
+}
+
+.external-link-btn {
+  transition: 0.3s;
+}
+
+#external-link-group:hover .external-link-btn {
+  fill: #6C4843;
+}
+
+/* Media Queries Containers */
+
+@media (min-width: 576px) {
+  .container-fluid {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container-fluid {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container-fluid {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container-fluid {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container-fluid {
+    max-width: 1320px;
+  }
+}
